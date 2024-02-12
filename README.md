@@ -72,7 +72,7 @@ This will continue to be a work in progress as the project matures. Additions wi
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within the project, please [send us a message via our contact form](https://luistoro.co.uk/#contact).
+If you discover a security vulnerability within the project, please [send me a message](https://luistoro.co.uk/#contact).
 
 ## License
 
