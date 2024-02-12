@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://luistoro.co.uk">
-        <img src="{{ asset('logo.svg') }}" alt="Company Logo">
+        <img src="https://raw.githubusercontent.com/luisbull/laravelBreeze-10/80fd593e072720e65efe90149912d42f09a84c08/public/logo.svg" height="150" alt="Company Logo">
     </a>
 </p>
 
